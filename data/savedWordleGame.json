@@ -1,21 +1,13 @@
 {
-    "difficulty": 2,
-    "board2": [
-        "|/MR/UR/NR/CR/HR|/AY/AG/EY/IR/OR|/////|/////|/////|/////|/////",
-        "SAGES",
-        2,
-        7,
-        2,
-        false
-    ],
-    "maxNumberOfGuesses": 7,
+    "difficulty": 1,
+    "maxNumberOfGuesses": 5,
     "gameScore": 0,
-    "numberGuessesMade": 2,
+    "numberGuessesMade": 0,
     "board1": [
-        "|/MR/UY/NR/CR/HR|/AY/AY/ER/IR/OR|/////|/////|/////|/////|/////",
-        "SQUAW",
-        2,
-        7,
+        "|/////|/////|/////|/////|/////",
+        "GALES",
+        0,
+        5,
         1,
         false
     ]
