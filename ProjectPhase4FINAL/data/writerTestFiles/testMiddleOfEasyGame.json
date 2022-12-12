@@ -1,0 +1,14 @@
+{
+    "difficulty": 1,
+    "maxNumberOfGuesses": 5,
+    "gameScore": 0,
+    "numberGuessesMade": 2,
+    "board1": [
+        "|/AR/BR/CR/DR/ER|/FR/GR/HR/IR/JR|/////|/////|/////",
+        "XXXXX",
+        2,
+        5,
+        1,
+        false
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "difficulty": 3,
+    "board2": [
+        "|/JR/JR/JR/JR/JR|/LR/LR/LR/LR/LR|/PR/PR/PR/PR/PR|/////|/////|/////|/////|/////|/////",
+        "ABCDE",
+        3,
+        9,
+        2,
+        false
+    ],
+    "maxNumberOfGuesses": 9,
+    "board3": [
+        "|/JR/JR/JR/JR/JR|/LR/LR/LR/LR/LR|/PR/PR/PR/PR/PR|/////|/////|/////|/////|/////|/////",
+        "XXXXX",
+        3,
+        9,
+        3,
+        false
+    ],
+    "gameScore": 0,
+    "numberGuessesMade": 3,
+    "board1": [
+        "|/JR/JR/JR/JR/JR|/LR/LR/LR/LR/LR|/PR/PR/PR/PR/PR|/////|/////|/////|/////|/////|/////",
+        "MUNCH",
+        3,
+        9,
+        1,
+        false
+    ]
+}

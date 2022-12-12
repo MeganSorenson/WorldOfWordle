@@ -1,0 +1,14 @@
+{
+  "difficulty" : 1,
+  "numberGuessesMade" : 3,
+  "maxNumberOfGuesses" : 5,
+  "gameScore" : 1000,
+  "board1" : [
+    "|/XR/XR/CG/EY/DY|/////|/////|/////|/////",
+    "ABCDE",
+    1,
+    5,
+    1,
+    false
+  ]
+}

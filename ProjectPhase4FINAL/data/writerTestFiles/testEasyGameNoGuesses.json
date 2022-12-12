@@ -1,0 +1,14 @@
+{
+    "difficulty": 1,
+    "maxNumberOfGuesses": 5,
+    "gameScore": 0,
+    "numberGuessesMade": 0,
+    "board1": [
+        "|/////|/////|/////|/////|/////",
+        "DINED",
+        0,
+        5,
+        1,
+        false
+    ]
+}

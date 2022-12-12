@@ -1,0 +1,30 @@
+{
+  "difficulty" : 3,
+  "numberGuessesMade" : 5,
+  "maxNumberOfGuesses" : 9,
+  "gameScore" : 2500,
+  "board1" : [
+    "|/HR/OG/MR/EG/SG|/PG/OG/LG/EG/SG|/////|/////|/////|/////|/////|/////|/////",
+    "POLES",
+    2,
+    9,
+    1,
+    true
+  ],
+  "board2" : [
+    "|/HY/OR/MY/ER/SR|/PR/OR/LR/ER/SR|/PR/UG/NG/CG/HG|/MG/UG/NG/CG/HG|/////|/////|/////|/////|/////",
+    "MUNCH",
+    4,
+    9,
+    2,
+    true
+  ],
+  "board3" : [
+    "|/HG/OR/MR/ER/SR|/PR/OR/LR/ER/SR|/PR/UG/NG/CG/HG|/MR/UG/NG/CG/HG|/LR/UG/NG/CG/HG|/////|/////|/////|/////",
+    "HUNCH",
+    5,
+    9,
+    3,
+    false
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "difficulty": 1,
+    "maxNumberOfGuesses": 5,
+    "gameScore": 1800,
+    "numberGuessesMade": 0,
+    "board1": [
+        "|/////|/////|/////|/////|/////",
+        "GLUON",
+        0,
+        5,
+        1,
+        false
+    ]
+}

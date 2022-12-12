@@ -1,0 +1,22 @@
+{
+    "difficulty": 2,
+    "board2": [
+        "|/HR/ER/LR/LR/OR|/////|/////|/////|/////|/////|/////",
+        "XXXXX",
+        1,
+        7,
+        2,
+        false
+    ],
+    "maxNumberOfGuesses": 7,
+    "gameScore": 0,
+    "numberGuessesMade": 1,
+    "board1": [
+        "|/HY/ER/LR/LR/OR|/////|/////|/////|/////|/////|/////",
+        "MUNCH",
+        1,
+        7,
+        1,
+        false
+    ]
+}

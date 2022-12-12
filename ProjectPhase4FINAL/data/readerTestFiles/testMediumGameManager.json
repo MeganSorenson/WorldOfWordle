@@ -1,0 +1,22 @@
+{
+  "difficulty" : 2,
+  "numberGuessesMade" : 6,
+  "maxNumberOfGuesses" : 7,
+  "gameScore" : 0,
+  "board1" : [
+    "|/AG/BG/CG/DG/EG|/////|/////|/////|/////|/////|/////",
+    "ABCDE",
+    1,
+    7,
+    1,
+    true
+  ],
+  "board2" : [
+    "|/AR/BR/CR/DR/ER|/XR/XR/XR/XR/XR|/XR/XR/XR/XR/XR|/XR/XR/XR/XR/XR|/XR/XR/XR/XR/XR|/FG/XR/XR/XR/XR|/////",
+    "FGHIJ",
+    6,
+    7,
+    2,
+    false
+  ]
+}
